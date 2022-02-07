@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Spa() {
-  return(<h1>Spa</h1>)
+  return(<h1>Hello World</h1>)
 
 }
 
